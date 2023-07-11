@@ -1,5 +1,7 @@
 # Explore Generative AI with Keras
 
+Presentation slides: [link](https://docs.google.com/presentation/d/1LCrqanpLeGvdc-tDOidAKEmeGCb5k9iatvUulB6I7Zs/edit#slide=id.p)
+
 Material links:
 
 1. Keras Overview 
